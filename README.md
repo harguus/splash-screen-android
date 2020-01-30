@@ -1,13 +1,26 @@
-File sets to facilitate the configuration and creation of a new splash screen for Android React Native. Functional example.
+###Português
 
-criar arquivos em:
+##Motivação:
 
-android/app/src/main/res/mipmap/background_splash.xml
+**Conjuntos de arquivos para facilitar a configuração e criação de uma nova tela splash para o Android React Native. Exemplo funcional.
 
-android/app/src/main/res/mipmap/icon.png
+##Os arquivos são:
 
-android/app/src/main/res/values/colors.xml
+**background_splash.xml
+**icon.png
+**colors.xml
 
-android/app/src/main/res/values/styles.xml
+**styles.xml (esse apenas um trecho de código deve ser inserido no projeto original);
 
-os arquivos seguem nesta pasta.
+
+###Inglish
+
+**File sets to facilitate the configuration and creation of a new splash screen for Android React Native. Functional example.
+
+##The files are:
+
+**background_splash.xml
+**icon.png
+**colors.xml
+
+**styles.xml (this just a piece of code must be inserted into the original project)
