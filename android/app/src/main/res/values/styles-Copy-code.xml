@@ -1,0 +1,14 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+
+        <!-- Copy this code -->
+        <item name="android:windowBackground">
+            @mipmap/background_splash
+        </item>
+        <!-- Copy this code -->
+
+
+    </style>
+</resources>
